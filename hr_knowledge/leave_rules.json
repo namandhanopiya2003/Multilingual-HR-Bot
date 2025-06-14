@@ -1,0 +1,58 @@
+{
+  "Annual Leave": {
+    "Eligibility": "All full-time employees after 6 months of service.",
+    "Accrual Rate": "1.5 days per month",
+    "Maximum Carryover": "10 days",
+    "Request Procedure": "Submit leave request via HR portal at least 2 weeks in advance."
+  },
+  "Sick Leave": {
+    "Eligibility": "All employees",
+    "Accrual Rate": "1 day per month",
+    "Documentation": "Medical certificate required for absences longer than 3 days.",
+    "Notification": "Notify immediate supervisor as soon as possible."
+  },
+  "Maternity Leave": {
+    "Duration": "12 weeks paid leave",
+    "Eligibility": "Female employees with at least 1 year of service",
+    "Request Procedure": "Submit application to HR at least 8 weeks before expected delivery."
+  },
+  "Paternity Leave": {
+    "Duration": "10 days paid leave",
+    "Eligibility": "Male employees with at least 6 months of service",
+    "Request Procedure": "Submit request to HR at least 4 weeks before expected due date."
+  },
+  "Casual Leave": {
+    "Eligibility": "All full-time employees",
+    "Quota": "6 days per calendar year",
+    "Usage": "For personal errands or unforeseen short-term needs",
+    "Request Procedure": "Submit leave request at least 1 day in advance, where possible."
+  },
+  "Bereavement Leave": {
+    "Eligibility": "All employees",
+    "Duration": "Up to 5 days",
+    "Usage": "In the event of death of an immediate family member",
+    "Notification": "Inform manager or HR as soon as possible."
+  },
+  "Marriage Leave": {
+    "Eligibility": "Full-time employees",
+    "Duration": "Up to 5 days of paid leave",
+    "Request Procedure": "Request at least 4 weeks in advance with valid documentation."
+  },
+  "Unpaid Leave": {
+    "Eligibility": "All employees (subject to managerial approval)",
+    "Duration": "As approved",
+    "Usage": "Used when paid leave is exhausted",
+    "Approval": "Requires written approval from manager and HR."
+  },
+  "Compensatory Off": {
+    "Eligibility": "Employees who worked on holidays/weekends",
+    "Usage": "Must be used within 30 days of working on off day",
+    "Request Procedure": "Request through HR portal with manager’s approval."
+  },
+  "Study Leave": {
+    "Eligibility": "Employees pursuing further education relevant to their job role",
+    "Duration": "Up to 10 days per year",
+    "Approval": "Subject to HR and department head approval",
+    "Documentation": "Proof of enrollment and exam schedule required."
+  }
+}
