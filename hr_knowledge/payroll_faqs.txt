@@ -1,0 +1,199 @@
+Payroll FAQs
+
+Q: When is the salary paid?
+A: Salary is paid on the last working day of each month via direct bank transfer.
+
+Q: How can I access my payslip?
+A: Payslips are available for download on the employee self-service portal under 'Payroll'.
+
+Q: What deductions are made from the salary?
+A: Standard deductions include income tax, social security, and health insurance contributions.
+
+Q: Who should I contact for payroll discrepancies?
+A: Please contact the Payroll department at payroll-support@company.com.
+
+Q: Are bonuses included in the monthly salary?
+A: Bonuses are paid separately as per company policy and performance.
+
+Q: How do I apply for leave?
+A: You can apply for leave through the HR portal under the "Leave Management" section.
+
+Q: How much annual leave do I earn per month?
+A: Full-time employees earn 1.5 days of annual leave per month.
+
+Q: Can unused leave be carried forward?
+A: Yes, up to 10 days of unused leave can be carried over to the next calendar year.
+
+Q: How do I check my leave balance?
+A: Log in to the HR portal and navigate to "My Leave" to view your leave balance.
+
+Q: What is the notice period for resignation?
+A: The standard notice period is 30 days for all employees.
+
+Q: Can I encash unused leave?
+A: Yes, up to 5 days of unused leave may be encashed annually as per policy.
+
+Q: How do I update my bank details?
+A: Update your bank information through the HR portal under "Personal Information."
+
+Q: What are the official working hours?
+A: Working hours are from 9:00 AM to 6:00 PM, Monday to Friday.
+
+Q: Is there a grace period for late arrivals?
+A: A 10-minute grace period is allowed, but repeated late arrivals may be flagged.
+
+Q: Who should I inform if I’m running late?
+A: Notify your reporting manager as soon as possible via email or chat.
+
+Q: How can I access the employee handbook?
+A: The employee handbook is available for download on the HR portal.
+
+Q: What is the company policy on remote work?
+A: Remote work is allowed with prior approval from your department head.
+
+Q: How often are performance reviews conducted?
+A: Performance reviews are held bi-annually (every 6 months).
+
+Q: Who conducts performance evaluations?
+A: Your direct manager conducts the evaluations in collaboration with HR.
+
+Q: What happens if I miss a performance review?
+A: HR will reschedule the session at the earliest convenience.
+
+Q: How do I access training resources?
+A: Training materials and courses are available on the Learning Portal.
+
+Q: Are training sessions mandatory?
+A: Some role-specific training sessions are mandatory as per HR guidance.
+
+Q: How do I register for a training program?
+A: You can register via the Learning & Development section on the HR portal.
+
+Q: Can I get a certificate after training?
+A: Yes, most training modules offer a certificate upon successful completion.
+
+Q: How do I request a letter of employment?
+A: Submit a request on the HR portal under "Document Requests."
+
+Q: How do I update my emergency contact?
+A: Go to the HR portal > Profile > Emergency Contact and click "Edit."
+
+Q: What happens if I fall sick during annual leave?
+A: Submit a medical certificate and HR may convert your leave to sick leave.
+
+Q: What is the process for applying maternity leave?
+A: Apply at least 8 weeks in advance through the HR portal with medical documents.
+
+Q: Can paternity leave be split into parts?
+A: Yes, paternity leave can be split into two parts with manager approval.
+
+Q: Are national holidays paid?
+A: Yes, all national holidays are fully paid.
+
+Q: Will I get paid if I work on a public holiday?
+A: You will receive compensatory off or extra pay, depending on your role.
+
+Q: How are promotions decided?
+A: Based on performance, business needs, and eligibility criteria.
+
+Q: How often are salary increments given?
+A: Annually, after the performance appraisal cycle.
+
+Q: How is bonus eligibility determined?
+A: Based on individual and company performance, as per bonus policy.
+
+Q: What should I do if I’m injured at work?
+A: Report immediately to your manager and visit the medical room or clinic.
+
+Q: Is there a grievance redressal mechanism?
+A: Yes, employees can raise issues confidentially via the HR grievance portal.
+
+Q: What is the process for internal job transfers?
+A: Apply through the internal job board after completing 6 months in your role.
+
+Q: Can I take leave during my probation period?
+A: Yes, but it is subject to manager and HR approval.
+
+Q: What documents are needed when joining?
+A: Government ID, address proof, educational certificates, and PAN card.
+
+Q: How can I reset my employee portal password?
+A: Use the "Forgot Password" link on the portal login page.
+
+Q: Are there team-building activities?
+A: Yes, HR organizes regular offsites, retreats, and team-building events.
+
+Q: Are employees allowed to bring pets to work?
+A: No, pets are not permitted on company premises.
+
+Q: What should I do if I forget my access card?
+A: Report to security or HR to obtain a temporary visitor badge.
+
+Q: Can I change departments?
+A: You may request a department transfer subject to approval and vacancy.
+
+Q: How do I escalate an HR issue?
+A: Use the "Escalate to HR" feature in the portal or email hr-escalations@company.com.
+
+Q: How is sick leave approved?
+A: Notify your manager and submit a medical certificate if required.
+
+Q: Can I cancel approved leave?
+A: Yes, via the portal before the leave start date with manager approval.
+
+Q: Are meals provided in the office?
+A: Yes, subsidized meals are available in the cafeteria.
+
+Q: How do I nominate a dependent for insurance?
+A: Update dependent details under the "Insurance" tab on the HR portal.
+
+Q: What is the company policy on gifts?
+A: Employees must not accept gifts over ₹1000 without prior approval.
+
+Q: Are mental health services available?
+A: Yes, confidential counseling is provided through our Employee Assistance Program.
+
+Q: How do I book a meeting room?
+A: Use the office calendar tool to reserve meeting rooms.
+
+Q: Is there a probation extension policy?
+A: Yes, probation may be extended based on performance and manager feedback.
+
+Q: Can part-time employees avail of health insurance?
+A: Only full-time employees are eligible for the company’s group health plan.
+
+Q: Are identity cards mandatory inside the office?
+A: Yes, employees must wear their ID cards at all times inside the premises.
+
+Q: What happens if I resign during probation?
+A: A minimum of 7 days' notice is required during the probation period.
+
+Q: Can I opt out of health insurance?
+A: Yes, by submitting an opt-out form during the enrollment period.
+
+Q: Is there a reward program for employee referrals?
+A: Yes, a bonus is provided for successful referrals after 3 months of joining.
+
+Q: Are personal devices allowed on company Wi-Fi?
+A: Yes, but only through the guest network and subject to security policies.
+
+Q: What is the company dress code on Fridays?
+A: Smart casuals are allowed unless you have client meetings.
+
+Q: How do I report technical issues?
+A: Raise a ticket through the IT Helpdesk system.
+
+Q: Is work-from-home allowed permanently?
+A: Permanent remote work is limited to specific roles and requires approval.
+
+Q: Can I get a copy of my offer letter?
+A: Yes, you can download it anytime from the HR portal under "Documents."
+
+Q: Is relocation support provided?
+A: Yes, for certain roles. Details are shared in the offer letter.
+
+Q: Can I rejoin the company after resignation?
+A: Yes, former employees can apply through the rehire program.
+
+Q: Are overtime hours compensated?
+A: Yes, as per company policy either through additional pay or comp-off.
