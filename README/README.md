@@ -28,26 +28,25 @@
 
 ## 📁 PROJECT FOLDER STRUCTURE ==>
 
-multilingual-hr-bot/
-│
-├── hr_knowledge/
-│   ├── company_policies.txt
-│   ├── leave_rules.json
-│   ├── payroll_faqs.txt
-│   └── company_news.json
-│
-├── modules/
-│   ├── chatbot.py             # Main chatbot logic & memory
-│   ├── hr_knowledge_loader.py # Loads & preprocesses HR knowledge
-│   ├── translation.py         # Language detection + translation logic
-│   └── openai_api.py          # Wrapper for OpenAI GPT API calls
-│
-├── venv/                    
-│
-├── app.py                     # Streamlit app (frontend)
-├── requirements.txt
+multilingual-hr-bot/<br>
+│<br>
+├── hr_knowledge/<br>
+│   ├── company_policies.txt<br>
+│   ├── leave_rules.json<br>
+│   ├── payroll_faqs.txt<br>
+│   └── company_news.json<br>
+│<br>
+├── modules/<br>
+│   ├── chatbot.py             # Main chatbot logic & memory<br>
+│   ├── hr_knowledge_loader.py # Loads & preprocesses HR knowledge<br>
+│   ├── translation.py         # Language detection + translation logic<br>
+│   └── openai_api.py          # Wrapper for OpenAI GPT API calls<br>
+│<br>
+├── venv/<br>                
+│<br>
+├── app.py                     # Streamlit app (frontend)<br>
+├── requirements.txt<br>
 └── README.md                  # Setup & usage instructions
-
 
 ---
 
@@ -116,7 +115,7 @@ set OPENAI_API_KEY=your_openai_api_key_here                                  <<-
 
 # Step 6: Run the Multilingual HR Chatbot:
 streamlit run app.py
-http://localhost:8501                 <-- [IT SHOULD OPEN ON YOUR BROWSER AUTOMATICALLY / OR MANUALL TYPE THIS IN BROWSER IF NOT OPENED! ]
+http://localhost:8501                 <-- [IT SHOULD OPEN ON YOUR BROWSER AUTOMATICALLY / OR MANUALLY TYPE THIS IN BROWSER IF NOT OPENED! ]
 
 ---
 
