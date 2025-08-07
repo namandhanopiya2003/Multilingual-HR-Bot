@@ -120,46 +120,6 @@ http://localhost:8501                 <-- [IT SHOULD OPEN ON YOUR BROWSER AUTOMA
 
 ---
 
-## ✅ IMPROVEMENTS MADE ==>
-
-- Modular Architecture: Clean separation of logic into multiple components (chatbot, translation, HR knowledge loader, and OpenAI API wrapper) for better maintainability and scalability.
-
-- Model Saving with Pickle: Implemented model persistence using Pickle to save intermediate or preprocessed data for faster reusability without reprocessing.
-
-- Optimized for Real-Time Speed: Improved inference time using efficient logic, reducing unnecessary translation or model calls where not required.
-
-- Multilingual Support: Automatically detects input language, translates to English for processing, and translates the response back to the original language using OpenAI's translation capabilities.
-
-- Context-Aware Conversations: Maintains chat history to allow context-aware follow-ups and dynamic interactions.
-
-- HR-Specific Knowledge Base: Supports answering queries related to leave policy, payroll, company rules, and internal news—preloaded from static files.
-
-- Extensible Knowledge Loading: New HR documents (like leave_rules.json or company_news.json) can be easily added or modified without altering core logic.
-
----
-
-## 📌 To Do / Future Enhancements ==>
-
-- Add a user-friendly GUI with buttons and input fields to manage HR knowledge updates, user queries, and chatbot settings easily.
-
-- Implement user session tracking with timestamps and location metadata (via IP geolocation) for conversation analytics and auditing.
-
-- Extend multilingual support to cover voice input/output and integrate speech-to-text and text-to-speech features.
-
-- Integrate with popular enterprise tools like Slack, Microsoft Teams, or email for seamless HR communication.
-
-- Add proactive notifications (email/SMS) for urgent HR announcements or policy changes based on user profiles.
-
-- Develop an admin dashboard to monitor chatbot usage metrics, user satisfaction, and update HR knowledge base in real-time.
-
-- Incorporate sentiment analysis to detect employee mood and escalate sensitive queries to human HR representatives automatically.
-
-- Enable offline mode with cached HR policies and FAQs for employees with intermittent internet access.
-
-- Expand knowledge base with more comprehensive, dynamically updated company news, FAQs, and policy documents.
-
----
-
 ## ✨ SAMPLE OUTPUT ==>
 
 🌐 Language Detected: French
@@ -179,5 +139,6 @@ http://localhost:8501                 <-- [IT SHOULD OPEN ON YOUR BROWSER AUTOMA
 ## 📬 CONTACT ==>
 
 For questions or feedback, feel free to reach out!
+
 
 ---
