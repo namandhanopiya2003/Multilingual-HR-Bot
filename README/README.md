@@ -122,23 +122,21 @@ http://localhost:8501                 <-- [IT SHOULD OPEN ON YOUR BROWSER AUTOMA
 
 ## ✨ SAMPLE OUTPUT ==>
 
-🌐 Language Detected: French
-🔄 Translated Query: "What are the working hours in the company?"
+🌐 Language Detected: French<br>
+🔄 Translated Query: "What are the working hours in the company?"<br>
 📥 User Asked: "Quelles sont les heures de travail dans l'entreprise ?"
 
-🤖 Bot Reply (English):  
+🤖 Bot Reply (English):<br>
 "The standard working hours are from 9:00 AM to 6:00 PM, Monday through Friday. Flexible timings are available upon manager approval."
 
-📝 Source: company_policies.txt  
-📊 Confidence: 96.8%  
+📝 Source: company_policies.txt<br>
+📊 Confidence: 96.8%<br>
 ✅ Status: Response Delivered
-
 
 ---
 
 ## 📬 CONTACT ==>
 
 For questions or feedback, feel free to reach out!
-
 
 ---
